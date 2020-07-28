@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quản lý Phòng ban - Tiendatmagic</string>
+    <string name="studentid"></string>
+    <string name="studentname"></string>
+    <string name="btnLoad">Load Data</string>
+    <string name="btnAdd">Add</string>
+    <string name="txtData">Data List</string>
+    <string name="btnFind">Find</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnUpdate">Update</string>
+    <string name="TextView1">ID Phòng ban</string>
+    <string name="TextView2">Tên Phòng ban</string>
+</resources>
